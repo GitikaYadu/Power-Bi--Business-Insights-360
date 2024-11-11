@@ -18,6 +18,11 @@ Key highlights:
 I explained all about my projects on Presentation Video & Dashboard
 
 # Live Dashboard link 🖇️
+bit.ly/4eqxoJA
+
+# Video Presentation link 🔗
+
+https://youtu.be/qlaCPFTZ8bo?si=ALmF72Lf276gCDQz
 
 
 #PowerBI #BusinessInsights #DataAnalytics #LearningJourney #Codebasics #DataDriven #PowerQuery #DAX #Codebasics #DashboardDesign
